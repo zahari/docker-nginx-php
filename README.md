@@ -1,5 +1,5 @@
-nginx-php-fpm
-==============
+Nginx PHP Docker image
+=======================
 
 
 Sample docker image to test PHP web applications
